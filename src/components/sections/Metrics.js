@@ -23,7 +23,7 @@ export default function Metrics() {
       label: 'Total Views Generated'
     },
     {
-      value: 0.42,
+      value: 40,
       suffix: '₹',
       label: 'Average CPI (Cost per Install)'
     },
