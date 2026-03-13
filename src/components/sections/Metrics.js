@@ -20,7 +20,7 @@ export default function Metrics() {
     {
       value: 2.3,
       suffix: 'M',
-      label: 'Total Views Generated'
+      label: 'Highest Spending on a Single Promo'
     },
     {
       value: 40,
